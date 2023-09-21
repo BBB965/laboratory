@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pascal - Tangled (Disney)
+* source:	https://sketchfab.com/3d-models/pascal-tangled-disney-e094b3a705f94e91b7c869fa200a51a0
+* author:	Locur (https://sketchfab.com/Locur)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pascal - Tangled (Disney)" (https://sketchfab.com/3d-models/pascal-tangled-disney-e094b3a705f94e91b7c869fa200a51a0) by Locur (https://sketchfab.com/Locur) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
